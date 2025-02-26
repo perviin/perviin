@@ -1,6 +1,13 @@
-# Bonjour ! Je suis Pervin EREN.
+# Bonjour ! Je suis Pervin EREN
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-perviin.github.io-pink)](https://perviin.github.io/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-@perviin-0077B5)](https://linkedin.com/in/pervin)
+<p align="center">
+  <a href="https://perviin.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-perviin.github.io-pink" alt="Portfolio">
+  </a>
+  <a href="https://linkedin.com/in/pervin">
+    <img src="https://img.shields.io/badge/LinkedIn-@perviin-0077B5" alt="LinkedIn">
+  </a>
+</p>
 
 ## À propos de moi
 
@@ -18,10 +25,14 @@ Actuellement en BTS SIO option SLAM, je suis passionnée par le développement w
 
 ### Outils & Environnements
 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
 ## Mes technologies les plus utilisés !
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=perviin&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perviin&layout=compact&theme=radical" alt="Top Langs">
+  </a>
+</p>
 
