@@ -32,6 +32,5 @@ Actuellement en BTS SIO option SLAM, je suis passionnée par le développement w
 
 <p align="center">
   <p align="center">
-  <img src="https://github-readme-stats-perviin.vercel.app/api/top-langs?username=perviin&layout=compact&theme=radical&cache_seconds=86400
-">
+  <img src="https://github-readme-stats-perviin.vercel.app/api/top-langs?username=perviin&layout=compact&theme=radical&cache_seconds=86400">
 </p>
