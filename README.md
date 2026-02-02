@@ -32,7 +32,7 @@ Actuellement en BTS SIO option SLAM, je suis passionnée par le développement w
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perviin&hide=html,css&layout=compact&theme=radical" alt="Top Langs">
+    <img src="https://github.com/perviin/github-readme-stats/blob/main/generated/top-langs.svg" alt="Top Langs">
   </a>
 </p>
 
